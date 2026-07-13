@@ -81,5 +81,6 @@ jupyter notebook notebooks/code.ipynb
 ## Grupo 75 — POSTECH Data Analytics
 
 Projeto desenvolvido para a disciplina de Machine Learning Aplicado a Negócios.
-# TechChallenge_FIAP-Fase2
-# TechChallenge_FIAP-Fase2
+
+
+
