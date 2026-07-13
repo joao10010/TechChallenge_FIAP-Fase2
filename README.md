@@ -78,7 +78,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/code.ipynb
 ```
 
-## Grupo 33 — POSTECH Data Analytics
+## Grupo 75 — POSTECH Data Analytics
 
 Projeto desenvolvido para a disciplina de Machine Learning Aplicado a Negócios.
 # TechChallenge_FIAP-Fase2
